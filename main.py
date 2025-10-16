@@ -1,6 +1,3 @@
-# Minimal CLI entrypoint for the analysis pipeline (stub).
-# Replace with your actual logic if you want script-driven runs.
-
 import argparse
 from pathlib import Path
 import sys
